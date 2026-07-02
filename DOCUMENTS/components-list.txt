@@ -1,17 +1,17 @@
-ESP32-S3---------$4.21
+microconttroller -- ESP32-S3---------$4.21
 
-SIM800L GSM------$3.68
+sos sms module -- SIM800L GSM------$3.68
 
-NEO-6M GPS-------$3.80
+live location -- NEO-6M GPS-------$3.80
 
-OLED Display-----$4.10
+basic ui -- OLED Display-----$4.10
 
-SOS Button-------$1.95	
+tacticle button -- SOS Button-------$1.95	
 
-Vibration Motor--$1.04
+confirms acctivation -- Vibration Motor--$1.04
 
-TP4056-----------$0.69
+charging hub -- TP4056-----------$0.69
 
-Battery----------$3.09
+backup -- Battery----------$3.09
 
-Copper Perfboard-$3.37
+pcb board -- Copper Perfboard-$3.37
