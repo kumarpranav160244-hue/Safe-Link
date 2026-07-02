@@ -53,7 +53,7 @@ void sendSMS(String msg) {
   sim800.println("AT+CMGF=1");
   delay(1000);
 
-  sim800.println("AT+CMGS=\"+911234567890\"");
+  sim800.println("AT+CMGS=\"+919319376830\"");
   delay(1000);
 
   sim800.print(msg);
