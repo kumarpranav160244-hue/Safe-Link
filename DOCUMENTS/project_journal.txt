@@ -1,0 +1,18 @@
+Objective:
+The main objective of this project is to design a low-cost women safety device which can send real-time location to emergency contact
+s when SOS button is pressed.
+
+Introduction:
+In today’s world safety is a major concern. This project focuses on creating a compact safety system using ESP32 microcontroller with
+GPS and GSM modules. When the user feels unsafe, a single button press sends live location to guardian and emergency numbers.
+
+Working Principle:
+When the SOS button is pressed, ESP32 activates GPS module to fetch current location. Then GSM module sends an SMS containing live 
+Google Maps link to pre-set emergency contacts. The system works instantly in real time.
+
+Circuit Design:
+All components are connected to ESP32 according to pin configuration. GPS communicates via UART and GSM module also uses serial
+communication.
+
+Software Used:
+Arduino IDE / PlatformIO (for programming ESP32)
